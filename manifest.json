@@ -1,7 +1,7 @@
 {
-  "name": "#ProgramadorFitness",
-  "short_name": "#ProgramadorFitness",
-  "description": "Bienvenid@s a #ProgramadorFitness, serie de videos, donde te daré consejos para llevar una vida saludable y evitar el sedentarismo. Recuerda... mente sana en cuerpo sano :)",
+  "name": "#CasaEnRenta",
+  "short_name": "#Airbnb",
+  "description": "La Casa de tus sueños",
   "background_color": "#2B2B2B",
   "theme_color": "#F0DB4F",
   "orientation": "portrait",
@@ -11,52 +11,52 @@
   "lang": "es-MX",
   "icons": [
     {
-      "src": "./img/icon_1024.png",
+      "src": "./img/icon_9.png",
       "sizes": "1024x1024",
       "type": "image/png"
     },
     {
-      "src": "./img/icon_512.png",
+      "src": "./img/icon_8.png",
       "sizes": "512x512",
       "type": "image/png"
     },
     {
-      "src": "./img/icon_384.png",
+      "src": "./img/icon_7.png",
       "sizes": "384x384",
       "type": "image/png"
     },
     {
-      "src": "./img/icon_256.png",
+      "src": "./img/icon_6.png",
       "sizes": "256x256",
       "type": "image/png"
     },
     {
-      "src": "./img/icon_192.png",
+      "src": "./img/icon_5.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "./img/icon_128.png",
+      "src": "./img/icon_4.png",
       "sizes": "128x128",
       "type": "image/png"
     },
     {
-      "src": "./img/icon_96.png",
+      "src": "./img/icon_3.png",
       "sizes": "96x96",
       "type": "image/png"
     },
     {
-      "src": "./img/icon_64.png",
+      "src": "./img/icon_2.png",
       "sizes": "64x64",
       "type": "image/png"
     },
     {
-      "src": "./img/icon_32.png",
+      "src": "./img/icon_1.png",
       "sizes": "32x32",
       "type": "image/png"
     },
     {
-      "src": "./img/favicon.png",
+      "src": "./img/favicon (2).png",
       "sizes": "16x16",
       "type": "image/png"
     }
