@@ -1,6 +1,7 @@
 ;
 //asignar un nombre y versión al cache
-const CACHE_NAME = 'v1_cache_programador_fitness',
+//se guarda los valores que no van a cambiar en el cache 
+const CACHE_NAME = 'v1_cache_pwa',
   urlsToCache = [
     './',
     'https://fonts.googleapis.com/css?family=Raleway:400,700',
@@ -10,7 +11,7 @@ const CACHE_NAME = 'v1_cache_programador_fitness',
     './style.css',
     './script.js',
     './img/icon_10',
-    './img/favicon (2).png'
+    './img/favicon1.png'
   ]
 
 //durante la fase de instalación, generalmente se almacena en caché los activos estáticos
